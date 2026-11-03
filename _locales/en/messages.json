@@ -1,0 +1,106 @@
+{
+  "name": {
+    "message": "Chat Exporter for Character.AI"
+  },
+  "description": {
+    "message": "Save your own Character.AI chats, characters and personas to a file on your computer. Nothing is uploaded."
+  },
+  "intro": {
+    "message": "Saves your chats, the characters you talked to and made, your personas and memory boxes to one file on this computer. Nothing is sent anywhere."
+  },
+  "start": {
+    "message": "Save my chats"
+  },
+  "stop": {
+    "message": "Stop and save what’s done"
+  },
+  "stopping": {
+    "message": "Stopping and saving…"
+  },
+  "finding": {
+    "message": "Finding your chats…"
+  },
+  "reading": {
+    "message": "$NAME$: chat $CHAT$ of $CHATS$ (character $CHARACTER$ of $CHARACTERS$)",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "chat": {
+        "content": "$4"
+      },
+      "chats": {
+        "content": "$5"
+      },
+      "character": {
+        "content": "$2"
+      },
+      "characters": {
+        "content": "$3"
+      }
+    }
+  },
+  "counts": {
+    "message": "Characters: $A$ · Chats: $B$ · Messages: $C$",
+    "placeholders": {
+      "a": {
+        "content": "$1"
+      },
+      "b": {
+        "content": "$2"
+      },
+      "c": {
+        "content": "$3"
+      }
+    }
+  },
+  "busy": {
+    "message": "Character.AI asked for a pause. Going on in a few seconds…"
+  },
+  "signedOut": {
+    "message": "Sign in to Character.AI in this tab, then press the button again."
+  },
+  "nothing": {
+    "message": "No chats found on this account."
+  },
+  "failed": {
+    "message": "Something went wrong: $MESSAGE$",
+    "placeholders": {
+      "message": {
+        "content": "$1"
+      }
+    }
+  },
+  "done": {
+    "message": "Done. Your file is in Downloads."
+  },
+  "donePartial": {
+    "message": "Stopped. What was read so far is in Downloads."
+  },
+  "where": {
+    "message": "File: $FILE$",
+    "placeholders": {
+      "file": {
+        "content": "$1"
+      }
+    }
+  },
+  "openViewer": {
+    "message": "Read it in the free viewer"
+  },
+  "saveText": {
+    "message": "Also save as text"
+  },
+  "saveAgain": {
+    "message": "Save the file again"
+  },
+  "viewerNote": {
+    "message": "The viewer opens on amavie.ai and reads the file in your browser; nothing is uploaded. Made by Amavie, not affiliated with Character.AI."
+  },
+  "credit": {
+    "message": "Made by Amavie. Not affiliated with Character.AI."
+  },
+  "close": {
+    "message": "Close"
+  }
+}

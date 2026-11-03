@@ -1,0 +1,106 @@
+{
+  "name": {
+    "message": "Character.AI 聊天记录导出工具"
+  },
+  "description": {
+    "message": "把你在 Character.AI 的聊天、角色和人设保存到电脑上的文件。不会上传任何内容。"
+  },
+  "intro": {
+    "message": "把你的聊天、聊过和创建的角色、人设以及记忆保存到这台电脑上的一个文件里。不会发送任何内容。"
+  },
+  "start": {
+    "message": "保存我的聊天"
+  },
+  "stop": {
+    "message": "停止并保存已完成的部分"
+  },
+  "stopping": {
+    "message": "正在停止并保存…"
+  },
+  "finding": {
+    "message": "正在查找你的聊天…"
+  },
+  "reading": {
+    "message": "$NAME$：聊天 $CHAT$/$CHATS$（角色 $CHARACTER$/$CHARACTERS$）",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "chat": {
+        "content": "$4"
+      },
+      "chats": {
+        "content": "$5"
+      },
+      "character": {
+        "content": "$2"
+      },
+      "characters": {
+        "content": "$3"
+      }
+    }
+  },
+  "counts": {
+    "message": "角色：$A$ · 聊天：$B$ · 消息：$C$",
+    "placeholders": {
+      "a": {
+        "content": "$1"
+      },
+      "b": {
+        "content": "$2"
+      },
+      "c": {
+        "content": "$3"
+      }
+    }
+  },
+  "busy": {
+    "message": "Character.AI 要求暂停，几秒后继续…"
+  },
+  "signedOut": {
+    "message": "请在此标签页登录 Character.AI，然后再按一次按钮。"
+  },
+  "nothing": {
+    "message": "这个账号没有聊天。"
+  },
+  "failed": {
+    "message": "出了点问题：$MESSAGE$",
+    "placeholders": {
+      "message": {
+        "content": "$1"
+      }
+    }
+  },
+  "done": {
+    "message": "完成。文件在下载文件夹里。"
+  },
+  "donePartial": {
+    "message": "已停止。已读取的内容在下载文件夹里。"
+  },
+  "where": {
+    "message": "文件：$FILE$",
+    "placeholders": {
+      "file": {
+        "content": "$1"
+      }
+    }
+  },
+  "openViewer": {
+    "message": "在免费查看器中阅读"
+  },
+  "saveText": {
+    "message": "同时保存为文本"
+  },
+  "saveAgain": {
+    "message": "再次保存文件"
+  },
+  "viewerNote": {
+    "message": "查看器在 amavie.ai 打开，在你的浏览器里读取文件，不会上传。由 Amavie 制作，与 Character.AI 无关。"
+  },
+  "credit": {
+    "message": "由 Amavie 制作，与 Character.AI 无关。"
+  },
+  "close": {
+    "message": "关闭"
+  }
+}

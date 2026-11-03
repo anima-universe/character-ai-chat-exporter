@@ -1,0 +1,106 @@
+{
+  "name": {
+    "message": "Export de chats pour Character.AI"
+  },
+  "description": {
+    "message": "Enregistrez vos chats, personnages et personas Character.AI dans un fichier sur votre ordinateur. Rien n’est envoyé."
+  },
+  "intro": {
+    "message": "Enregistre vos chats, les personnages à qui vous avez parlé et ceux que vous avez créés, vos personas et vos mémoires dans un seul fichier sur cet ordinateur. Rien n’est envoyé."
+  },
+  "start": {
+    "message": "Enregistrer mes chats"
+  },
+  "stop": {
+    "message": "Arrêter et garder ce qui est fait"
+  },
+  "stopping": {
+    "message": "Arrêt et enregistrement…"
+  },
+  "finding": {
+    "message": "Recherche de vos chats…"
+  },
+  "reading": {
+    "message": "$NAME$ : chat $CHAT$ sur $CHATS$ (personnage $CHARACTER$ sur $CHARACTERS$)",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "chat": {
+        "content": "$4"
+      },
+      "chats": {
+        "content": "$5"
+      },
+      "character": {
+        "content": "$2"
+      },
+      "characters": {
+        "content": "$3"
+      }
+    }
+  },
+  "counts": {
+    "message": "Personnages : $A$ · Chats : $B$ · Messages : $C$",
+    "placeholders": {
+      "a": {
+        "content": "$1"
+      },
+      "b": {
+        "content": "$2"
+      },
+      "c": {
+        "content": "$3"
+      }
+    }
+  },
+  "busy": {
+    "message": "Character.AI a demandé une pause. Reprise dans quelques secondes…"
+  },
+  "signedOut": {
+    "message": "Connectez-vous à Character.AI dans cet onglet, puis appuyez de nouveau sur le bouton."
+  },
+  "nothing": {
+    "message": "Aucun chat sur ce compte."
+  },
+  "failed": {
+    "message": "Un problème est survenu : $MESSAGE$",
+    "placeholders": {
+      "message": {
+        "content": "$1"
+      }
+    }
+  },
+  "done": {
+    "message": "C’est fait. Votre fichier est dans Téléchargements."
+  },
+  "donePartial": {
+    "message": "Arrêté. Ce qui a été lu est dans Téléchargements."
+  },
+  "where": {
+    "message": "Fichier : $FILE$",
+    "placeholders": {
+      "file": {
+        "content": "$1"
+      }
+    }
+  },
+  "openViewer": {
+    "message": "Le lire dans la visionneuse gratuite"
+  },
+  "saveText": {
+    "message": "Enregistrer aussi en texte"
+  },
+  "saveAgain": {
+    "message": "Enregistrer le fichier à nouveau"
+  },
+  "viewerNote": {
+    "message": "La visionneuse s’ouvre sur amavie.ai et lit le fichier dans votre navigateur, sans rien envoyer. Fait par Amavie, sans lien avec Character.AI."
+  },
+  "credit": {
+    "message": "Fait par Amavie. Sans lien avec Character.AI."
+  },
+  "close": {
+    "message": "Fermer"
+  }
+}

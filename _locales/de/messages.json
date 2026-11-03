@@ -1,0 +1,106 @@
+{
+  "name": {
+    "message": "Chat-Export für Character.AI"
+  },
+  "description": {
+    "message": "Speichere deine Chats, Charaktere und Personas von Character.AI in einer Datei auf deinem Computer. Kein Upload."
+  },
+  "intro": {
+    "message": "Speichert deine Chats, die Charaktere, mit denen du gesprochen und die du erstellt hast, deine Personas und Memory-Boxen in einer Datei auf diesem Computer. Nichts wird gesendet."
+  },
+  "start": {
+    "message": "Meine Chats speichern"
+  },
+  "stop": {
+    "message": "Anhalten und Bisheriges speichern"
+  },
+  "stopping": {
+    "message": "Wird angehalten und gespeichert …"
+  },
+  "finding": {
+    "message": "Deine Chats werden gesucht …"
+  },
+  "reading": {
+    "message": "$NAME$: Chat $CHAT$ von $CHATS$ (Charakter $CHARACTER$ von $CHARACTERS$)",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "chat": {
+        "content": "$4"
+      },
+      "chats": {
+        "content": "$5"
+      },
+      "character": {
+        "content": "$2"
+      },
+      "characters": {
+        "content": "$3"
+      }
+    }
+  },
+  "counts": {
+    "message": "Charaktere: $A$ · Chats: $B$ · Nachrichten: $C$",
+    "placeholders": {
+      "a": {
+        "content": "$1"
+      },
+      "b": {
+        "content": "$2"
+      },
+      "c": {
+        "content": "$3"
+      }
+    }
+  },
+  "busy": {
+    "message": "Character.AI hat um eine Pause gebeten. Es geht in ein paar Sekunden weiter …"
+  },
+  "signedOut": {
+    "message": "Melde dich in diesem Tab bei Character.AI an und drück den Knopf noch einmal."
+  },
+  "nothing": {
+    "message": "In diesem Konto gibt es keine Chats."
+  },
+  "failed": {
+    "message": "Etwas ist schiefgegangen: $MESSAGE$",
+    "placeholders": {
+      "message": {
+        "content": "$1"
+      }
+    }
+  },
+  "done": {
+    "message": "Fertig. Deine Datei liegt in den Downloads."
+  },
+  "donePartial": {
+    "message": "Angehalten. Das bisher Gelesene liegt in den Downloads."
+  },
+  "where": {
+    "message": "Datei: $FILE$",
+    "placeholders": {
+      "file": {
+        "content": "$1"
+      }
+    }
+  },
+  "openViewer": {
+    "message": "Im kostenlosen Viewer lesen"
+  },
+  "saveText": {
+    "message": "Auch als Text speichern"
+  },
+  "saveAgain": {
+    "message": "Datei noch einmal speichern"
+  },
+  "viewerNote": {
+    "message": "Der Viewer öffnet sich auf amavie.ai und liest die Datei in deinem Browser, ohne Upload. Von Amavie, nicht mit Character.AI verbunden."
+  },
+  "credit": {
+    "message": "Von Amavie. Nicht mit Character.AI verbunden."
+  },
+  "close": {
+    "message": "Schließen"
+  }
+}

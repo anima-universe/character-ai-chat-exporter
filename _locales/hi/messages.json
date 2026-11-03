@@ -1,0 +1,106 @@
+{
+  "name": {
+    "message": "Character.AI के लिए चैट एक्सपोर्टर"
+  },
+  "description": {
+    "message": "Character.AI की अपनी चैट, कैरेक्टर और पर्सोना अपने कंप्यूटर की एक फ़ाइल में सेव करें। कुछ भी अपलोड नहीं होता।"
+  },
+  "intro": {
+    "message": "आपकी चैट, जिन कैरेक्टर से बात की और जो बनाए, आपके पर्सोना और मेमोरी इस कंप्यूटर की एक फ़ाइल में सेव होते हैं। कुछ भी कहीं नहीं भेजा जाता।"
+  },
+  "start": {
+    "message": "मेरी चैट सेव करें"
+  },
+  "stop": {
+    "message": "रोकें और जितना हुआ सेव करें"
+  },
+  "stopping": {
+    "message": "रोककर सेव कर रहे हैं…"
+  },
+  "finding": {
+    "message": "आपकी चैट ढूँढ रहे हैं…"
+  },
+  "reading": {
+    "message": "$NAME$: चैट $CHAT$/$CHATS$ (कैरेक्टर $CHARACTER$/$CHARACTERS$)",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "chat": {
+        "content": "$4"
+      },
+      "chats": {
+        "content": "$5"
+      },
+      "character": {
+        "content": "$2"
+      },
+      "characters": {
+        "content": "$3"
+      }
+    }
+  },
+  "counts": {
+    "message": "कैरेक्टर: $A$ · चैट: $B$ · मैसेज: $C$",
+    "placeholders": {
+      "a": {
+        "content": "$1"
+      },
+      "b": {
+        "content": "$2"
+      },
+      "c": {
+        "content": "$3"
+      }
+    }
+  },
+  "busy": {
+    "message": "Character.AI ने थोड़ा रुकने को कहा है। कुछ सेकंड में आगे बढ़ेंगे…"
+  },
+  "signedOut": {
+    "message": "इस टैब में Character.AI में लॉग इन करें, फिर बटन दोबारा दबाएँ।"
+  },
+  "nothing": {
+    "message": "इस अकाउंट में कोई चैट नहीं मिली।"
+  },
+  "failed": {
+    "message": "कुछ गड़बड़ हो गई: $MESSAGE$",
+    "placeholders": {
+      "message": {
+        "content": "$1"
+      }
+    }
+  },
+  "done": {
+    "message": "हो गया। आपकी फ़ाइल Downloads में है।"
+  },
+  "donePartial": {
+    "message": "रोक दिया। अब तक पढ़ा गया Downloads में है।"
+  },
+  "where": {
+    "message": "फ़ाइल: $FILE$",
+    "placeholders": {
+      "file": {
+        "content": "$1"
+      }
+    }
+  },
+  "openViewer": {
+    "message": "मुफ़्त व्यूअर में पढ़ें"
+  },
+  "saveText": {
+    "message": "टेक्स्ट में भी सेव करें"
+  },
+  "saveAgain": {
+    "message": "फ़ाइल दोबारा सेव करें"
+  },
+  "viewerNote": {
+    "message": "व्यूअर amavie.ai पर खुलता है और फ़ाइल आपके ब्राउज़र में पढ़ता है, कुछ अपलोड नहीं होता। Amavie की ओर से, Character.AI से संबद्ध नहीं।"
+  },
+  "credit": {
+    "message": "Amavie की ओर से। Character.AI से संबद्ध नहीं।"
+  },
+  "close": {
+    "message": "बंद करें"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "name": {
+    "message": "تصدير المحادثات لـ Character.AI"
+  },
+  "description": {
+    "message": "احفظ محادثاتك وشخصياتك في Character.AI في ملف على جهازك. لا يُرفع أي شيء."
+  },
+  "intro": {
+    "message": "يحفظ محادثاتك والشخصيات التي تحدثت معها والتي أنشأتها وذاكرة المحادثات في ملف واحد على هذا الجهاز. لا يُرسل أي شيء."
+  },
+  "start": {
+    "message": "احفظ محادثاتي"
+  },
+  "stop": {
+    "message": "أوقف واحفظ ما تم"
+  },
+  "stopping": {
+    "message": "جارٍ الإيقاف والحفظ…"
+  },
+  "finding": {
+    "message": "جارٍ البحث عن محادثاتك…"
+  },
+  "reading": {
+    "message": "$NAME$: المحادثة $CHAT$ من $CHATS$ (الشخصية $CHARACTER$ من $CHARACTERS$)",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "chat": {
+        "content": "$4"
+      },
+      "chats": {
+        "content": "$5"
+      },
+      "character": {
+        "content": "$2"
+      },
+      "characters": {
+        "content": "$3"
+      }
+    }
+  },
+  "counts": {
+    "message": "الشخصيات: $A$ · المحادثات: $B$ · الرسائل: $C$",
+    "placeholders": {
+      "a": {
+        "content": "$1"
+      },
+      "b": {
+        "content": "$2"
+      },
+      "c": {
+        "content": "$3"
+      }
+    }
+  },
+  "busy": {
+    "message": "طلب Character.AI مهلة. سنتابع بعد ثوانٍ…"
+  },
+  "signedOut": {
+    "message": "سجّل الدخول إلى Character.AI في هذه العلامة، ثم اضغط الزر مرة أخرى."
+  },
+  "nothing": {
+    "message": "لا توجد محادثات في هذا الحساب."
+  },
+  "failed": {
+    "message": "حدث خطأ: $MESSAGE$",
+    "placeholders": {
+      "message": {
+        "content": "$1"
+      }
+    }
+  },
+  "done": {
+    "message": "تم. ملفك في مجلد التنزيلات."
+  },
+  "donePartial": {
+    "message": "توقف. ما تمت قراءته في مجلد التنزيلات."
+  },
+  "where": {
+    "message": "الملف: $FILE$",
+    "placeholders": {
+      "file": {
+        "content": "$1"
+      }
+    }
+  },
+  "openViewer": {
+    "message": "اقرأه في العارض المجاني"
+  },
+  "saveText": {
+    "message": "احفظه نصًا أيضًا"
+  },
+  "saveAgain": {
+    "message": "احفظ الملف مرة أخرى"
+  },
+  "viewerNote": {
+    "message": "يفتح العارض على amavie.ai ويقرأ الملف في متصفحك دون رفع أي شيء. من Amavie، ولا علاقة له بـ Character.AI."
+  },
+  "credit": {
+    "message": "من Amavie. لا علاقة له بـ Character.AI."
+  },
+  "close": {
+    "message": "إغلاق"
+  }
+}

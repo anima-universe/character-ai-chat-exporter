@@ -1,0 +1,106 @@
+{
+  "name": {
+    "message": "Выгрузка чатов для Character.AI"
+  },
+  "description": {
+    "message": "Сохраните свои чаты, персонажей и образы из Character.AI в файл на компьютере. Ничего никуда не загружается."
+  },
+  "intro": {
+    "message": "Сохраняет ваши чаты, персонажей, с которыми вы говорили и которых создали, образы и блоки памяти в один файл на этом компьютере. Ничего никуда не отправляется."
+  },
+  "start": {
+    "message": "Сохранить мои чаты"
+  },
+  "stop": {
+    "message": "Остановить и сохранить готовое"
+  },
+  "stopping": {
+    "message": "Останавливаем и сохраняем…"
+  },
+  "finding": {
+    "message": "Ищем ваши чаты…"
+  },
+  "reading": {
+    "message": "$NAME$: чат $CHAT$ из $CHATS$ (персонаж $CHARACTER$ из $CHARACTERS$)",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "chat": {
+        "content": "$4"
+      },
+      "chats": {
+        "content": "$5"
+      },
+      "character": {
+        "content": "$2"
+      },
+      "characters": {
+        "content": "$3"
+      }
+    }
+  },
+  "counts": {
+    "message": "Персонажи: $A$ · Чаты: $B$ · Сообщения: $C$",
+    "placeholders": {
+      "a": {
+        "content": "$1"
+      },
+      "b": {
+        "content": "$2"
+      },
+      "c": {
+        "content": "$3"
+      }
+    }
+  },
+  "busy": {
+    "message": "Character.AI попросил паузу. Продолжим через несколько секунд…"
+  },
+  "signedOut": {
+    "message": "Войдите в Character.AI в этой вкладке и нажмите кнопку ещё раз."
+  },
+  "nothing": {
+    "message": "В этом аккаунте чатов не найдено."
+  },
+  "failed": {
+    "message": "Что-то пошло не так: $MESSAGE$",
+    "placeholders": {
+      "message": {
+        "content": "$1"
+      }
+    }
+  },
+  "done": {
+    "message": "Готово. Файл в папке «Загрузки»."
+  },
+  "donePartial": {
+    "message": "Остановлено. То, что успели прочитать, — в папке «Загрузки»."
+  },
+  "where": {
+    "message": "Файл: $FILE$",
+    "placeholders": {
+      "file": {
+        "content": "$1"
+      }
+    }
+  },
+  "openViewer": {
+    "message": "Читать в бесплатном просмотрщике"
+  },
+  "saveText": {
+    "message": "Сохранить ещё и текстом"
+  },
+  "saveAgain": {
+    "message": "Сохранить файл ещё раз"
+  },
+  "viewerNote": {
+    "message": "Просмотрщик открывается на amavie.ai и читает файл в вашем браузере, ничего не загружая. Сделано в Amavie, с Character.AI не связано."
+  },
+  "credit": {
+    "message": "Сделано в Amavie. С Character.AI не связано."
+  },
+  "close": {
+    "message": "Закрыть"
+  }
+}

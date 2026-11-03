@@ -1,0 +1,13 @@
+{
+  "name": "character-ai-chat-exporter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Save your own Character.AI chats, characters and personas to a file on your computer. Nothing is uploaded.",
+  "license": "MIT",
+  "homepage": "https://amavie.ai/character-ai-export",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "build": "node build.mjs"
+  }
+}

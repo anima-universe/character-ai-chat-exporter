@@ -1,0 +1,106 @@
+{
+  "name": {
+    "message": "Exportador de conversas para Character.AI"
+  },
+  "description": {
+    "message": "Salve suas conversas, personagens e personas do Character.AI em um arquivo no computador. Nada é enviado."
+  },
+  "intro": {
+    "message": "Salva suas conversas, os personagens com quem você falou e os que criou, suas personas e caixas de memória em um único arquivo neste computador. Nada é enviado."
+  },
+  "start": {
+    "message": "Salvar minhas conversas"
+  },
+  "stop": {
+    "message": "Parar e salvar o que já foi"
+  },
+  "stopping": {
+    "message": "Parando e salvando…"
+  },
+  "finding": {
+    "message": "Procurando suas conversas…"
+  },
+  "reading": {
+    "message": "$NAME$: conversa $CHAT$ de $CHATS$ (personagem $CHARACTER$ de $CHARACTERS$)",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "chat": {
+        "content": "$4"
+      },
+      "chats": {
+        "content": "$5"
+      },
+      "character": {
+        "content": "$2"
+      },
+      "characters": {
+        "content": "$3"
+      }
+    }
+  },
+  "counts": {
+    "message": "Personagens: $A$ · Conversas: $B$ · Mensagens: $C$",
+    "placeholders": {
+      "a": {
+        "content": "$1"
+      },
+      "b": {
+        "content": "$2"
+      },
+      "c": {
+        "content": "$3"
+      }
+    }
+  },
+  "busy": {
+    "message": "O Character.AI pediu uma pausa. Continuamos em alguns segundos…"
+  },
+  "signedOut": {
+    "message": "Entre no Character.AI nesta aba e aperte o botão de novo."
+  },
+  "nothing": {
+    "message": "Nenhuma conversa nesta conta."
+  },
+  "failed": {
+    "message": "Algo deu errado: $MESSAGE$",
+    "placeholders": {
+      "message": {
+        "content": "$1"
+      }
+    }
+  },
+  "done": {
+    "message": "Pronto. Seu arquivo está em Downloads."
+  },
+  "donePartial": {
+    "message": "Parado. O que foi lido até aqui está em Downloads."
+  },
+  "where": {
+    "message": "Arquivo: $FILE$",
+    "placeholders": {
+      "file": {
+        "content": "$1"
+      }
+    }
+  },
+  "openViewer": {
+    "message": "Ler no visualizador grátis"
+  },
+  "saveText": {
+    "message": "Salvar também como texto"
+  },
+  "saveAgain": {
+    "message": "Salvar o arquivo de novo"
+  },
+  "viewerNote": {
+    "message": "O visualizador abre em amavie.ai e lê o arquivo no seu navegador, sem enviar nada. Feito pelo Amavie, sem ligação com o Character.AI."
+  },
+  "credit": {
+    "message": "Feito pelo Amavie. Sem ligação com o Character.AI."
+  },
+  "close": {
+    "message": "Fechar"
+  }
+}
