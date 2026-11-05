@@ -14,7 +14,7 @@ file in your browser, and the same viewer is [open source](https://github.com/an
 
 ## Install
 
-- Chrome, Edge, Brave and other Chromium browsers: from the Chrome Web Store *(in review)*.
+- Chrome, Edge, Brave and other Chromium browsers: from the [Chrome Web Store](https://chromewebstore.google.com/detail/afhbopfhnfdkaeledjfhecmngbiedknd).
 - Firefox: from Firefox Add-ons *(in review)*.
 - By hand: run `npm run build`, open `chrome://extensions`, turn on Developer mode, press **Load unpacked** and choose
   `dist/chrome`.

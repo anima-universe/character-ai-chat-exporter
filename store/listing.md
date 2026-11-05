@@ -3,11 +3,15 @@
 Everything the Chrome Web Store, Firefox Add-ons and Microsoft Edge Add-ons forms ask for. The name and short description in
 each language come from `_locales/` by themselves.
 
-- **Category:** Chrome — Tools. Firefox — Download Management. Edge — Productivity.
-- **Website:** https://amavie.ai/character-ai-export
-- **Support:** support@amavie.ai
-- **Privacy policy:** https://github.com/anima-universe/character-ai-chat-exporter/blob/main/PRIVACY.md
-- **Pictures:** 1280×800 screenshots and a 440×280 tile from `store/make-assets.mjs`.
+- **Category:** Chrome — Tools. Firefox — Download Management and Social & Communication, Firefox for desktop only (Android
+  is not tested). Edge — Productivity.
+- **Website:** https://amavie.ai/character-ai-export. Chrome **Official URL:** amavie.ai (verified in Search Console).
+- **Support:** support@amavie.ai; Chrome asks for a URL — https://amavie.ai/help.
+- **Privacy policy:** https://github.com/anima-universe/character-ai-chat-exporter/blob/main/PRIVACY.md (Firefox takes the
+  text of `PRIVACY.md` instead of a link).
+- **Pictures:** 1280×800 screenshots and a 440×280 tile from `store/make-assets.mjs`. Firefox does not take the icon from the
+  package: upload `icons/icon128.png` as the custom icon. Screenshot captions: “One button on your Character.AI tab: Save my
+  chats” · “It reads every chat. Stop any time and keep what is done” · “One file in Downloads, plus plain text if you want it”.
 
 ## Privacy tab
 
